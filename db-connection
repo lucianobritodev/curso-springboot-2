@@ -1,7 +1,0 @@
-postgres
-
-hostname: ec2-44-198-236-169.compute-1.amazonaws.com
-port: 5432
-database: df93ll4aaet8fr
-user: rkycgwbcqmjcon
-password: a832a829627305141025d16759f4ac6f32c02c44136e37893cb1bbcbc49b39f8
